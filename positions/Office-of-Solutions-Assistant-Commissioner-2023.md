@@ -350,7 +350,7 @@ All applicants must meet the Mandatory Technical and Executive Core Qualificatio
 requirements listed below to be eligible for consideration. Eligibility will be based 
 on a clear demonstration that the applicant's training and experience are of the scope, 
 quality and level of responsibility sufficient to successfully perform the duties and r
-esponsibilities of this executive position.
+responsibilities of this executive position.
 
 
 **MANDATORY TECHNICAL COMPETENCIES:**

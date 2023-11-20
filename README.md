@@ -176,7 +176,7 @@ and outputs the contents alone.
 
 | layout  | use                                                                                    |
 | ------- | -------------------------------------------------------------------------------------- |
-| default | The `index.md` page, represeting the landing page for the site                         |
+| default | The `index.md` page, representing the landing page for the site                        |
 | page    | All pages in the `pages/` directory. Adds a side navigation bar                        |
 | job     | All pages in the `positions/` directory. Adds info sessions and a side navigation bar  |
 | raw     | All pages in the `archive/` directory. Does not add any markup to the provided content |
